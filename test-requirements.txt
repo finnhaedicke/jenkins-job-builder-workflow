@@ -1,0 +1,10 @@
+discover
+fixtures
+flake8
+mock
+python-subunit
+sphinxcontrib-programoutput
+testscenarios
+testrepository
+testtools
+tox

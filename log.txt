@@ -1,0 +1,3 @@
+ep: workflow = workflow_job.project_workflow:Workflow
+ep: workflow = workflow_job.project_workflow:Workflow
+[<jenkins_jobs.builder.XmlJob object at 0x7fb1dbf57d50>, <jenkins_jobs.builder.XmlJob object at 0x7fb1dbf5b150>]

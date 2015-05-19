@@ -1,0 +1,12 @@
+- job-template:
+    name: workflow_002-{name}
+    project-type: workflow
+    dsl: |
+        node {{
+            println "{name}"
+        }}
+
+- project:
+    name: hello
+    jobs:
+        - 'workflow_002-{name}'
