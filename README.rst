@@ -7,6 +7,9 @@ Python module that extends `jenkins-job-builder
 
 .. image:: https://travis-ci.org/finnhaedicke/jenkins-job-builder-workflow.svg?branch=master
     :target: https://travis-ci.org/finnhaedicke/jenkins-job-builder-workflow
+.. image:: https://readthedocs.org/projects/jenkins-job-builder-workflow/badge/?version=latest
+    :target: https://readthedocs.org/projects/jenkins-job-builder-workflow/?badge=latest
+    :alt: Documentation Status
 
 Based on https://github.com/thomasvandoren/jenkins-job-builder-naginator
 
