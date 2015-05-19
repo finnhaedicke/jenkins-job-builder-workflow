@@ -4,6 +4,7 @@
 # correct version number.
 #
 # Version number is taken from setup.cfg, so update accordingly.
+set -e
 
 CWD=$(cd $(dirname $0) ; pwd)
 
